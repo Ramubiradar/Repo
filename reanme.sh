@@ -5,4 +5,4 @@ echo "enter the number to read"
 read num
 echo "$name"
 echo "$num"
-
+echo "complete"
